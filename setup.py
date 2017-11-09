@@ -7,5 +7,5 @@ setup(name='pypacktest',
       author='Flying Circus',
       author_email='flyingcircus@example.com',
       license='MIT',
-      packages=['funniest'],
+      packages=['pypacktest'],
       zip_safe=False)
